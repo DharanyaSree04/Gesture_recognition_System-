@@ -1,6 +1,4 @@
 
-Navigation Menu
-
 
 GESTURE RECOGNITION SYSTEM
 
